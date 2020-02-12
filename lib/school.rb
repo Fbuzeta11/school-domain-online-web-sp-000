@@ -19,6 +19,7 @@ class School
         return y 
       end 
     end 
+  end
   
   def sort 
   nu_hash = {}
